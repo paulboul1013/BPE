@@ -1,7 +1,7 @@
 #BPE
 
 # introduce
-make a simple BPE to understand the vocab compression algorithm and some llv concept
+make a simple BPE to understand the vocab compression algorithm and some llm concept
 
 
 # reference
